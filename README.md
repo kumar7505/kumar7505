@@ -24,7 +24,7 @@
 <p align="left">
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+    <img src="./public/Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50"/>
   </a> 
 
   <!-- C -->
@@ -49,7 +49,7 @@
 
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+    <img src="./public/express-js.png" alt="express" width="50" height="50"/>
   </a> 
 
   <!-- Figma -->
@@ -59,7 +59,7 @@
 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Firebase_Logo_2016.svg" alt="firebase" width="50" height="50"/>
+    <img src="./public/firebase-logo.svg" alt="firebase" width="50" height="50"/>
   </a> 
 
   <!-- Git -->
@@ -94,7 +94,7 @@
 
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Nextjs-logo.svg" alt="nextjs" width="50" height="50"/>
+    <img src="./public/nextjs-icon.svg" alt="nextjs" width="50" height="50"/>
   </a> 
 
   <!-- Node.js -->
@@ -134,11 +134,8 @@
 
   <!-- New Tech Stack -->
   <!-- Added technologies not present in the original -->
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/RESTful_API_Logo.svg" alt="rest-api" width="50" height="50"/>
-  </a> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos_003.png" alt="matplotlib" width="50" height="50"/>
+    <img src="./public/Matplotlib_icon.svg.png" alt="matplotlib" width="50" height="50"/>
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
