@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://kumar-portfolio-drab.vercel.app/](https://kumar-portfolio-drab.vercel.app/)
+  <!-- - 👨‍💻 All of my projects are available at [https://kumar-portfolio-drab.vercel.app/](https://kumar-portfolio-drab.vercel.app/) -->
 
 - 💬 Ask me about **react, API Development**
 
 - 📫 You can reach me at **kumarpers7@gmail.com**
 
-- 📄 Know about my experiences [https://kumar-portfolio-drab.vercel.app/document/kumar_resume.pdf](https://kumar-portfolio-drab.vercel.app/document/kumar_resume.pdf)
+  <!-- - 📄 Know about my experiences [https://kumar-portfolio-drab.vercel.app/document/kumar_resume.pdf](https://kumar-portfolio-drab.vercel.app/document/kumar_resume.pdf) -->
 
 - ⚡ Fun fact **I’m a coding enthusiast who believes every bug is just a puzzle waiting to be solved! 🧩**
 
